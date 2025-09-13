@@ -90,14 +90,10 @@ Bartın Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim. Pyth
 
 ## 📊 GitHub İstatistikleri  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alperackgz&show_icons=true&theme=radical&hide_border=true&locale=tr" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alperackgz&theme=radical&hide_border=true&locale=tr" alt="GitHub Streak" height="160" />
-</p>
+![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=alper&show_icons=true&theme=onedark&hide_border=true&locale=tr)  
+![GitHub Katkı Çizgim](https://github-readme-streak-stats.herokuapp.com/?user=alper&theme=onedark&hide_border=true&locale=tr)  
+![GitHub Kupalarım](https://github-profile-trophy.vercel.app/?username=alper&theme=onedark&no-frame=true&no-bg=true)  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alperackgz&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
 
 
 ---

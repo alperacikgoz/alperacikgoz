@@ -90,7 +90,7 @@ Bartın Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim. Pyth
 
 ## 📊 GitHub İstatistikleri  
 
-![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=alper&show_icons=true&theme=onedark&hide_border=true&locale=tr)  
+![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=alper&show_icons=true&theme=onedark&hide_border=true&locale=tr&custom_title=Alper%20Bugün%20Hesabının%20GitHub%20İstatistikleri)  
 ![GitHub Katkı Çizgim](https://github-readme-streak-stats.herokuapp.com/?user=alper&theme=onedark&hide_border=true&locale=tr)  
 ![GitHub Kupalarım](https://github-profile-trophy.vercel.app/?username=alper&theme=onedark&no-frame=true&no-bg=true)  
 

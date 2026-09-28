@@ -1,101 +1,67 @@
-### Merhaba! Ben Alper Açıkgöz  
+<div align="center">
 
-Bartın Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim. Python ile makine öğrenmesi, yapay zekâ, gerçek zamanlı simülasyonlar ve mobil uygulama geliştirme alanlarında projeler üretiyorum. Yazılım geliştirmede **sadelik, sürdürülebilirlik ve kapsamlı dokümantasyon** benim için temel ilkeler. Bu profil, geliştirdiğim projeleri, teknolojik yetkinliklerimi ve iletişim kanallarımı bir araya getirmektedir.  
+<img src="./assets/hero.svg" alt="Alper Açıkgöz — Backend Developer" width="100%"/>
 
----
+<a href="https://www.linkedin.com/in/alper-a%C3%A7%C4%B1kg%C3%B6z-ceng0101/"><img src="https://img.shields.io/badge/LinkedIn-050b16?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn"/></a>
+<a href="mailto:alper.ackgz37@gmail.com"><img src="https://img.shields.io/badge/E--posta-050b16?style=for-the-badge&logo=gmail&logoColor=7cf7ff" alt="E-posta"/></a>
+<img src="https://img.shields.io/badge/İstanbul_·_Ümraniye-050b16?style=for-the-badge&logo=googlemaps&logoColor=6ea8ff" alt="Konum"/>
 
-### 🚀 Uzmanlık Alanları & Teknolojiler  
+</div>
 
-* **Programlama Dilleri:**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+<img src="./assets/divider.svg" width="100%"/>
 
-* **Framework & Kütüphaneler:**  
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-  ![LangChain](https://img.shields.io/badge/LangChain-12100E?style=for-the-badge&logo=chainlink&logoColor=white)  
-  ![LangGraph](https://img.shields.io/badge/LangGraph-1F1F1F?style=for-the-badge&logo=graphql&logoColor=white)  
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-  ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)  
+## Hakkımda
 
-* **Veritabanları & Backend:**  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+Backend geliştirme ve **mikroservis mimarileri** üzerine odaklanan bir **Bilgisayar Mühendisiyim** (Bartın Üniversitesi, 2026).
+**Java ve Spring Boot** ile REST API geliştirme, servisler arası iletişim, **mesajlaşma sistemleri (Kafka, RabbitMQ)**, veritabanı yönetimi ve güvenli backend mimarileri üzerine çalışıyorum.
+PiA Group'taki uzun dönem stajımda gerçek mikroservis sistemlerinde **API Gateway, Eureka, merkezi konfigürasyon, Docker, Kubernetes ve Keycloak** ile çalıştım; **Camunda BPMN** ile iş süreçlerini modelleyip onay akışlarını orkestre ettim.
+Yüksek erişilebilirlik, güvenlik ve veri bütünlüğünün kritik olduğu **bankacılık ve finans** sistemlerinde ölçeklenebilir backend çözümleri geliştiren ekiplerde uzmanlaşmayı hedefliyorum.
 
-* **Bulut & API:**  
-  ![Google Gemini API](https://img.shields.io/badge/Google_Gemini-1F1F1F?style=for-the-badge&logo=google-gemini&logoColor=white)  
+<table><tr>
+<td width="50%"><img src="./assets/signals.svg" width="100%" alt="Yetkinlik radarı"/></td>
+<td width="50%"><img src="./assets/timeline.svg" width="100%" alt="Zaman çizelgesi"/></td>
+</tr></table>
 
----
+## Deneyim
 
-### 📌 Öne Çıkan Projeler  
+**Uzun Dönem Java Backend Developer Stajyeri — PiA Group** · `02.2026 – 06.2026`
+- **Java ve Spring Boot** ile mikroservis tabanlı backend servislerinin geliştirilmesinde görev aldım; servisler arası iletişim için **RESTful API**'ler tasarladım.
+- **API Gateway, Service Discovery (Eureka)** ve merkezi konfigürasyon yapılarıyla çalıştım.
+- **Kafka ve RabbitMQ** ile event-driven mimari yapıları deneyimledim.
+- **Docker** ile container ortamında dağıtıma katkı sağladım; **Kubernetes ve Keycloak** ile ölçekleme ve güvenlik üzerine çalıştım.
+- **MySQL ve Spring Data JPA** ile veritabanı işlemleri; **Resilience4j (Circuit Breaker)** ile temel hata toleransı.
+- **Camunda BPMN** ile iş süreçlerinin modellenmesi, onay akışlarının orkestrasyonu ve workflow yönetimi.
 
-- **Synapse – Etkileşimli Öğrenme Platformu (BTK Akademi Hackathon 2025)**  
-  * Çoklu yapay zekâ ajanlarıyla (LangGraph, LangChain, Google Gemini API) belgeleri analiz eden platform.  
-  * Konu özetleme, kavram haritaları çıkarma, sınav sorusu üretme ve kalıcı sohbet hafızası.  
-  * **Teknolojiler:** Python, FastAPI, LangChain, LangGraph, Gemini API, ChromaDB, SQLite.  
-  * [🎥 Tanıtım Videosu](https://youtu.be/KD56_Y8iSoc)  
+**Trainee — Google Oyun ve Uygulama Akademisi** · `10.2023 – 06.2024`
+- **Flutter** ile mobil uygulama geliştirme; Game & App Jam ve AI Plugin App Jam etkinliklerinde hızlı prototipleme.
+- İhtiyaç analizi, arayüz tasarımı ve uygulama mimarisi; **Firebase** ile backend entegrasyonları.
 
-- **Otonom Araç için Nesne Takip & Simülasyon (2025)**  
-  * YOLOv5 + OpenCV ile nesne tespiti.  
-  * Konum verilerinin UDP ile Unity’ye aktarımı.  
-  * Araç, kameradan gelen görüntülere göre gerçek zamanlı takip yaptı.  
-  * **Teknolojiler:** Python, OpenCV, YOLOv5, Unity, Socket Programming.  
+## Öne Çıkan Projeler
 
-- **WebRTC ile Görüntülü İletişim (2024)**  
-  * WebRTC protokolleriyle uçtan uca görüntülü görüşme.  
-  * Signal & Peer Connection süreçleriyle bağlantı yönetimi.  
+<table><tr>
+<td width="50%"><a href="https://github.com/alperacikgoz/accessflow"><img src="./assets/card-access-flow.svg" width="100%" alt="AccessFlow"/></a></td>
+<td width="50%"><img src="./assets/card-physio-ai.svg" width="100%" alt="PhysioAI"/></td>
+</tr></table>
 
-- **NutriJourney – Sağlıklı Yaşam Mobil Uygulaması (2023-2024)**  
-  * Flutter tabanlı, barkod okuma + besin değerleri analizi.  
-  * Yapay zekâ destekli **NutriMate** ile kişiye özel sağlıklı tarif önerileri.  
-  * Su tüketimi takibi, günlük hedef belirleme.  
-  * [💻 GitHub](https://lnkd.in/dthPdwSf) | [🎥 Video](https://lnkd.in/d555WBVS)  
+## Teknolojiler
 
-- **Çalışma Saatleri Analizi ve Tahmini (2024)**  
-  * Python ile veri temizleme, görselleştirme ve regresyon modeli.  
-  * Farklı ülkelerde yıllık çalışma saatlerini karşılaştırmalı analiz.  
+<p align="center">
+  <b>Backend & Mikroservis</b><br/>
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,rabbitmq,mysql,postgres,redis&theme=dark" alt="Backend"/><br/><br/>
+  <b>DevOps & Araçlar</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,idea&theme=dark" alt="DevOps"/><br/><br/>
+  <b>Frontend & Diğer</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,flutter,firebase,python,fastapi&theme=dark" alt="Frontend"/>
+</p>
 
----
+## Eğitim
 
-### 🎓 Eğitim  
+**Bilgisayar Mühendisliği (Lisans)** — Bartın Üniversitesi · `2022 – 2026` · GNO **3,37**
+<br/>**Özden Cengiz Anadolu Lisesi** — İstanbul · `2017 – 2021`
 
-- **Bartın Üniversitesi – Bilgisayar Mühendisliği (2022–2026)**  
-  Ortalama: **3.24 / 4.00**  
-  İlgili dersler: Algoritmalar, Veri Yapıları, Bilgisayar Ağları, Bilgisayar Mimarisi, Veri Madenciliği, Veritabanı Yönetim Sistemleri  
+## Sertifikalar & Diller
 
----
+- Google Proje Yönetimi — *Coursera*
+- Türkçe (ana dil) · İngilizce (B1–B2, sertifikalı)
 
-### 🎓 Sertifikalar & Etkinlikler  
-
-* **Google Proje Yönetimi Sertifikası (Coursera, 2024)**  
-* **Git & GitHub (BTK Akademi, 2024)**  
-* **Veri Bilimi (Kodluyoruz, 2023)**  
-* **Otomotiv Yaz Kampı Katılım Sertifikası (OSD, 2025)**  
-* **Google Oyun ve Uygulama Akademisi (2023–2024 Mezunu)**  
-* **Yapay Zeka Zirvesi 2023 & 2024 Katılımı**  
-
----
-
-### 📫 İletişim  
-
-* **E-posta:** alper.ackgz37@gmail.com  
-* **LinkedIn:** [linkedin.com/in/alper-açıkgöz-ceng0101](https://www.linkedin.com/in/alper-açıkgöz-ceng0101)  
-
----
-
-### 📊 İstatistikler  
-
-## 📊 GitHub İstatistikleri  
-
-![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=alper&show_icons=true&theme=onedark&hide_border=true&locale=tr&custom_title=Alper%20Bugün%20Hesabının%20GitHub%20İstatistikleri)  
-![GitHub Katkı Çizgim](https://github-readme-streak-stats.herokuapp.com/?user=alper&theme=onedark&hide_border=true&locale=tr)  
-![GitHub Kupalarım](https://github-profile-trophy.vercel.app/?username=alper&theme=onedark&no-frame=true&no-bg=true)  
-
-
-
----
-
-> "Ne iş yapıyorsan, en iyisini yap!"  
+<img src="./assets/divider.svg" width="100%"/>

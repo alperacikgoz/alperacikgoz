@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Alper Açıkgöz — Backend Developer" width="100%"/>
+<img src="./assets/hero-code.svg" alt="Alper Açıkgöz — Backend Developer" width="100%"/>
 
 <a href="https://www.linkedin.com/in/alper-a%C3%A7%C4%B1kg%C3%B6z-ceng0101/"><img src="https://img.shields.io/badge/LinkedIn-050b16?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn"/></a>
 <a href="mailto:alper.ackgz37@gmail.com"><img src="https://img.shields.io/badge/E--posta-050b16?style=for-the-badge&logo=gmail&logoColor=7cf7ff" alt="E-posta"/></a>
